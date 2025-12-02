@@ -3,7 +3,7 @@ import os
 from discord.ext import commands
 from datetime import datetime, timedelta, timezone
 
-TOKEN = os.getenv("DISCORD_BOT_TOKEN")
+TOKEN = os.getenv("CLEANER_BOT_TOKEN")
 
 # -----------------------------
 # コマンド実行を許可するユーザーID
